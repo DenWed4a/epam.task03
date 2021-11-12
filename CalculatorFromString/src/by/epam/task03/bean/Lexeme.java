@@ -2,8 +2,8 @@ package by.epam.task03.bean;
 
 public class Lexeme {
 	
-	LexemeType type;
-	String value;
+	private LexemeType type;
+	private String value;
 	
 	
 	public Lexeme(LexemeType type, String value) {
